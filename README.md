@@ -26,8 +26,9 @@ Tujuan dari pembuatan website ini adalah untuk mendokumentasikan perjalanan bela
 
 ## 🌐 Link Website
 
-Website ini dapat diakses secara publik melalui:  
-🔗
+Website ini dapat diakses secara publik melalui:
+🔗 [https://andhinwdyp.github.io/068-d3-proyek3/](https://andhinwdyp.github.io/068-d3-proyek3/)
+
 
 ## 📄 Kontak
 
